@@ -1,0 +1,23 @@
+{
+  "name": "git_14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenkui0519/git_14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenkui0519/git_14/issues"
+  },
+  "homepage": "https://github.com/wenkui0519/git_14#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
